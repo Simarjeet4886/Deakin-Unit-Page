@@ -1,0 +1,22 @@
+4b3e063 - Simarjeet4886 - 2026-03-20 - force graph branch
+ebdd80b - Simarjeet4886 - 2026-03-20 - resolve merge conflict
+02bdd90 - Simarjeet4886 - 2026-03-20 - merge header
+8b4a2da - Simarjeet4886 - 2026-03-20 - header branch extra commit
+563fd3f - Simarjeet4886 - 2026-03-20 - table branch extra commit
+4b9a5fd - Simarjeet4886 - 2026-03-20 - header branch extra commit
+e0972b9 - Simarjeet4886 - 2026-03-20 - resolve merge conflict
+527dd47 - Simarjeet4886 - 2026-03-20 - improve content section with design
+66f407b - Simarjeet4886 - 2026-03-20 - add detailed team table with roles and IDs
+a4d04da - Simarjeet4886 - 2026-03-20 - add header and logo
+dd3e285 - azadehghn - 2023-03-27 - Update main.css
+49bcf51 - azadehghn - 2023-03-27 - Update index.html
+cda79a8 - azadehghn - 2023-03-27 - Delete logo.svg
+3feed37 - azadehghn - 2023-03-27 - Delete logo.png
+fea9c3e - azadehghn - 2023-03-26 - Merge branch 'add-header' add header
+20520bf - azadehghn - 2023-03-26 - add color
+f922655 - azadehghn - 2023-03-26 - add file
+5bfabcc - azadehghn - 2023-03-26 - add logo deakin
+f3348a5 - azadehghn - 2023-03-26 - update file
+0804188 - azadehghn - 2023-03-26 - add table
+aa1685e - azadehghn - 2023-03-26 - Add html and css files
+1811b82 - azadehghn - 2023-03-26 - Initial commit
